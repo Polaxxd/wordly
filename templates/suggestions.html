@@ -10,12 +10,19 @@
     <title>WordlyHelper - sugestie</title>
 </head>
 <body>
-    <H1>Proponuję te słowa:</H1>
+    <a href="{{ url_for("home") }}" class="btn btn-default ml-3 mt-1 btn-sm">Od nowa</a>
+    <h1>{{ t }}</h1>
     <div class="col-md-3 m-4">
-        {% for i in word_list %}
+    {% if t=="Proponuję te słowa:" %}
+        <a href="{{ url_for("word_input") }}" class="btn btn-success ml-3 mt-1">Dalej</a>
+    {% endif %}
+    <br>
+        {% for i in words_list %}
             {{ i }}<br>
         {% endfor %}
+    {% if t=="Proponuję te słowa:" %}
         <a href="{{ url_for("word_input") }}" class="btn btn-success ml-3 mt-1">Dalej</a>
+    {% endif %}
     </div>
 
 
