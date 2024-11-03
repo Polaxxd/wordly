@@ -17,19 +17,19 @@
           </div>
             <div class="row">
                 {% for i in range(word_length) %}
-                    <div class="col-md-3">
-                        <label>Letter {{ i + 1 }}</label>
+                    <div class="col-md-1 m-1">
+                        <label>Litera {{ i + 1 }}</label>
                         <div class="form-check">
                             <input class="form-check-input" type="radio" name="feedback-{{ i }}" id="green-{{ i }}" value="green" required>
-                            <label class="form-check-label text-success" for="green-{{ i }}">Green</label>
+                            <label class="form-check-label text-success" for="green-{{ i }}">Zielona</label>
                         </div>
                         <div class="form-check">
                             <input class="form-check-input" type="radio" name="feedback-{{ i }}" id="yellow-{{ i }}" value="yellow">
-                            <label class="form-check-label text-warning" for="yellow-{{ i }}">Yellow</label>
+                            <label class="form-check-label text-warning" for="yellow-{{ i }}">Żółta</label>
                         </div>
                         <div class="form-check">
                             <input class="form-check-input" type="radio" name="feedback-{{ i }}" id="gray-{{ i }}" value="gray" checked>
-                            <label class="form-check-label text-secondary" for="gray-{{ i }}">Gray</label>
+                            <label class="form-check-label text-secondary" for="gray-{{ i }}">Szara</label>
                         </div>
                     </div>
                 {% endfor %}

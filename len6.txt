@@ -1,21 +1,15 @@
-oseina
 teoria
-peonia
 aowiec
 ziarno
 wozina
 nieraz
-ewodia
 oleina
 wiroza
 wierna
 rwanie
-newari
 kozina
 orisza
 kineza
-kaizen
-cenoza
 zasiew
 wiosna
 nasiew
@@ -1512,7 +1506,6 @@ mafios
 tertio
 mościa
 aksjon
-texaco
 apofit
 helisa
 zwłoka
@@ -2941,7 +2934,6 @@ karwia
 wsioch
 wariak
 sośnik
-extazy
 menhir
 sterać
 płazem
@@ -3214,7 +3206,6 @@ szibah
 kocówa
 włazić
 okleić
-rexton
 wpisać
 wisior
 homage
@@ -3464,7 +3455,6 @@ ciarka
 panika
 hanger
 szwedy
-praxis
 ciarki
 doping
 kapnik
@@ -3987,7 +3977,6 @@ kocher
 osykać
 ocenny
 fitowy
-extasy
 haking
 ażurki
 łepski
@@ -4045,7 +4034,6 @@ szypot
 solówa
 fanzin
 poszyt
-cardox
 miksaż
 bucior
 zbytni
@@ -4294,7 +4282,6 @@ bartny
 barwić
 spyrka
 wobler
-teatox
 krezus
 gereza
 kaprys
@@ -4493,7 +4480,6 @@ biofag
 merzyk
 profit
 rzemyk
-cortex
 spoiwo
 bajzel
 yumpie
@@ -5674,7 +5660,6 @@ mularz
 matury
 penang
 proszę
-xantia
 pangen
 bulier
 kolęda
@@ -5781,7 +5766,6 @@ imisja
 cochin
 hanami
 ajuści
-syrinx
 fontaź
 chinon
 pitaja
@@ -5952,7 +5936,6 @@ mégane
 oskoła
 golusi
 potęga
-azotox
 ożywać
 źrebak
 pograć
@@ -6202,7 +6185,6 @@ dowaga
 spaszt
 dastan
 małpię
-grexit
 burawy
 domcio
 sofora
@@ -6620,7 +6602,6 @@ paszka
 daktyl
 pigmej
 rybsko
-exodus
 łepeta
 zmięty
 okupić
@@ -6854,7 +6835,6 @@ spadły
 mdławy
 oknowy
 bondur
-hortex
 jogini
 kamasz
 burdon
@@ -7109,7 +7089,6 @@ węgieł
 tyrpać
 azalia
 stąpor
-frexit
 rżysko
 fugato
 ukłony
@@ -8233,7 +8212,6 @@ poczuć
 grupet
 dubowy
 igelit
-metaxa
 turyzm
 trajka
 ofukać
@@ -8475,7 +8453,6 @@ bydlak
 spójka
 taksja
 pokpić
-exodos
 różyca
 górski
 glikol
@@ -9425,7 +9402,6 @@ cowboy
 wwieść
 kupror
 skórki
-maalox
 kupryt
 sufler
 teksle
@@ -9563,7 +9539,6 @@ dróżki
 sumski
 kallus
 kluska
-hotfix
 agamia
 tryfić
 mendel
@@ -9806,7 +9781,6 @@ clinch
 suflet
 hipizm
 bigiel
-pinxit
 lahnda
 grzdyl
 miliom
@@ -9940,7 +9914,6 @@ sylaba
 kaukaz
 skąpić
 wrężny
-hydrox
 sporoś
 dośćże
 drużny
@@ -10222,7 +10195,6 @@ fokowy
 najada
 wilżyć
 klęska
-maxima
 sfukać
 gryfel
 dżagan
@@ -10277,7 +10249,6 @@ bywszy
 nagant
 peleng
 meches
-exprès
 expres
 huński
 holdup
